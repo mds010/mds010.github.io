@@ -257,6 +257,16 @@ defaults:
       share: false
       comments: true
       published: false
+  # _preprints
+  - scope:
+      path: ""
+      type: preprnts
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: true
+      published: false
   # _publications
   - scope:
       path: ""
