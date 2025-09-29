@@ -17,3 +17,4 @@ Previously, I worked with Jim Rehg at Georgia Tech.
 
 Updates
 ===
+* I will be at NeurIPS 2025!
